@@ -9,7 +9,6 @@
 
 #### 1. [Universitas Krisnadwipayana](https://unkris.ac.id/)  | Mahasiswa Aktif Teknik Informatika | Bekasi `2021 - Aktif`
 #### 2. [SMK Pusaka 1 Jakarta](https://datadik.smkdki.id/profil-sekolah.php?kode_sekolah=01050146) | Otomatisasi Tata Kelola Perkantoran | Jakarta `2018-2020`
-   - Chief of Rohkris
 
 ## Work Experience:
 #### 1. [Universitas Krisnadwipayana](https://unkris.ac.id/) | Volunteer | MC  | Bekasi  
