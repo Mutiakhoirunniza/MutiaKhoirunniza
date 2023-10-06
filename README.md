@@ -1,4 +1,4 @@
-# Hi there, I'm Diah Mutia Choirunnisa (https://www.youtube.com/channel/UCpnsMfn6vCJQOxKpRlOEklg) 👋
+# Hi there, I'm Diah Mutia Choirunnisa - [mutia](https://www.youtube.com/channel/UCpnsMfn6vCJQOxKpRlOEklg) 👋
 ## About Me:
 - 🔭 I am an active student majoring in Computer Science.
 - 🌱 I am currently pursuing a bachelor's degree in this field, and I have a deep interest in the world of technology and software development.
